@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      vlsi74
+HostName                       CadenceServer3.localdomain
+ProcessIdentifier              34338
+ProcessCreationTime_UTC        1533115008
+ProcessCreationTime_Readable   Wed Aug  1 15:16:48 2018 BDT
+AppIdentifier                  /home/eda/cadence/lnx/IC616/IC616ISR14_lnx86/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/vlsi74/Analog/Project/Half_adder/constraint/prop.cfg
+TimeEditLocked                 Wed Aug  1 15:43:11 2018 BDT
